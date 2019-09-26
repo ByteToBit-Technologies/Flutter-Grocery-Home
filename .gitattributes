@@ -1,1 +1,4 @@
+* linguist-vendored
+*.objective-c linguist-vendored=false
+*.objective-c linguist-detectable=false
 *.objective-c linguist-language=Dart
