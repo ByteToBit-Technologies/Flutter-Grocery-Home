@@ -1,5 +1,1 @@
-* linguist-vendored
-*.objective-c linguist-vendored=false
-*.objective-c linguist-detectable=false
-*.dart linguist-detectable=true
-*.objective-c linguist-language=Dart
+ *.* linguist-language=Dart
