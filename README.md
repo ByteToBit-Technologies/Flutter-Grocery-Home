@@ -1,4 +1,4 @@
-# Grocery-Home UI includes :
+# Flutter Grocery-Home UI includes :
 
 * Custom ListView
 * Carousel
